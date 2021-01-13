@@ -361,7 +361,7 @@ h2 {
 
   .column1 {
     float: left;
-    width: 33%;
+    width: 30%;
     padding: 0 10px;
   }
   
@@ -378,7 +378,7 @@ h2 {
   /* Responsive columns */
   @media screen and (max-width: 600px) {
     .column1 {
-      width: 100%;
+      width: 95%;
       display: block;
       margin-bottom: 20px;
     }
